@@ -35,7 +35,7 @@
     git clone https://github.com/victordsantoss/ecoleta.git`
 > Ir até a pasta raiz do projeto 
 
-    cd ../../Ecoleta
+    cd ../../ecoleta
 > Instalar o Gerenciador de Pacotes do Node Js
 
     npm install 
