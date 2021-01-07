@@ -30,13 +30,21 @@
 
 
 ## :warning: Execução no Sistema Linux 
-1. Clonar este reposirório: `git clone 
-   https://github.com/victordsantoss/Ecoleta.git`
-2. Vá para pasta raiz do projeto `cd ../../Ecoleta`
-3. Instale o Gerenciador de Pacotes do Node: `npm install`
-4. Inicie o servidor: `npm start`
-5. Acesse a rota http://localhost:3000/
+> Clonar repositório da aplicação
 
+    git clone https://github.com/victordsantoss/ecoleta.git`
+> Ir até a pasta raiz do projeto 
+
+    cd ../../Ecoleta
+> Instalar o Gerenciador de Pacotes do Node Js
+
+    npm install 
+> Iniciar o Servidor
+
+    npm start 
+> Acessar a rota da aplicação
+
+    http://localhost:3000/
 
 ## :heavy_plus_sign: Sobre
 * As aulas ministradas estão disponíveis clicando [aqui](https://drive.google.com/drive/folders/1m8KlZ-iKgz5GjmKf1OwyJ7vgY43bL7sm?usp=sharing).
