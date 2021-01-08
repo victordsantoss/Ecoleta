@@ -32,10 +32,10 @@
 ## :warning: Execução no Sistema Linux 
 > Clonar repositório da aplicação
 
-    git clone https://github.com/victordsantoss/ecoleta.git`
+    git clone https://github.com/victordsantoss/nlw1.0-ecoleta.git`
 > Ir até a pasta raiz do projeto 
 
-    cd ../../ecoleta
+    cd ../../nlw1.0-ecoleta
 > Instalar o Gerenciador de Pacotes do Node Js
 
     npm install 
